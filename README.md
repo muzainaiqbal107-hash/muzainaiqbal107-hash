@@ -24,7 +24,6 @@ With a strong foundation in modern web technologies, I transform ideas into real
 🎯 Goal: Contributing to impactful open-source projects<br>
 ⚡ Fun fact: I combine style with code to create unique experiences<br>
 👨‍💻 All of my projects are available at (https://app.netlify.com/teams/muzainaiqbal107/projects)<br>
-📫 How to reach me ansariimama@yahoo.com<br>
 🌐 LinkedIn:<br>
 (https://www.linkedin.com/in/muzaina-iqbal-17a915415/)<br>
 
@@ -62,9 +61,8 @@ With a strong foundation in modern web technologies, I transform ideas into real
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muzainaiqbal107-hash&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzainaiqbal107-hash&layout=compact&theme=tokyonight"/>
+📊 GitHub Stats <br>
+📈 GitHub Statistics <br>
 
 </p>
 
@@ -74,7 +72,7 @@ With a strong foundation in modern web technologies, I transform ideas into real
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=muzainaiqbal107-hash&theme=tokyonight"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT37m-bhWZwN8VK2GRMWaYz0D-aC9aPKscgP8ve5KsPjyW8kSIeqLXJVeM&s=10"/>
 
 </p>
 
@@ -84,7 +82,7 @@ With a strong foundation in modern web technologies, I transform ideas into real
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muzainaiqbal107-hash&theme=tokyonight&row=1&column=6"/>
+<img src="https://hackernoon.imgix.net/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-e393k8c.jpeg"/>
 
 </p>
 
