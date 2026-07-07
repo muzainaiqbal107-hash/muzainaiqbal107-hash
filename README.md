@@ -1,11 +1,11 @@
 <h1 align="center">
 Hi 👋, I'm Muzaina Iqbal
 </h1>
-
+<br>
 <h3 align="center">
 Founder of 4x-Vision | Front-End Web Developer | Building Premium Modern Websites
 </h3>
-
+<br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=muzainaiqbal107-hash&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
@@ -14,19 +14,19 @@ Founder of 4x-Vision | Front-End Web Developer | Building Premium Modern Website
 
 # 🚀 About Me
 
-I'm a passionate Full Stack Web Developer from Pakistan, dedicated to crafting seamless digital experiences.
-With a strong foundation in modern web technologies, I transform ideas into reality through clean code and innovative solutions.
+I'm a passionate Full Stack Web Developer from Pakistan, dedicated to crafting seamless digital experiences.<br>
+With a strong foundation in modern web technologies, I transform ideas into reality through clean code and innovative solutions.<br>
 
-✨ Passionate Front-End Web Developer from Pakistan.
-🔭 Currently working with Supabase to build scalable applications
-🌱 Continuously expanding my skill set in modern web technologies
-💡 Specializing in responsive design and interactive user interfaces
-🎯 Goal: Contributing to impactful open-source projects
-⚡ Fun fact: I combine style with code to create unique experiences
-👨‍💻 All of my projects are available at (https://app.netlify.com/teams/muzainaiqbal107/projects)
-📫 How to reach me ansariimama@yahoo.com
-🌐 LinkedIn:
-(https://www.linkedin.com/in/muzaina-iqbal-17a915415/)
+✨ Passionate Front-End Web Developer from Pakistan. <br>
+🔭 Currently working with Supabase to build scalable applications<br>
+🌱 Continuously expanding my skill set in modern web technologies<br>
+💡 Specializing in responsive design and interactive user interfaces<br>
+🎯 Goal: Contributing to impactful open-source projects<br>
+⚡ Fun fact: I combine style with code to create unique experiences<br>
+👨‍💻 All of my projects are available at (https://app.netlify.com/teams/muzainaiqbal107/projects)<br>
+📫 How to reach me ansariimama@yahoo.com<br>
+🌐 LinkedIn:<br>
+(https://www.linkedin.com/in/muzaina-iqbal-17a915415/)<br>
 
 ---
 
@@ -36,15 +36,9 @@ With a strong foundation in modern web technologies, I transform ideas into real
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
 
 </p>
 
