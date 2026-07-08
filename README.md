@@ -72,7 +72,7 @@ With a strong foundation in modern web technologies, I transform ideas into real
 
 <p align="center">
 
-<img src=" https://pbs.twimg.com/media/GSoxutxWgAAN-aq.jpg"/>
+<img src=" https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbklrjS%2FbtskA6zA1AK%2FAAAAAAAAAAAAAAAAAAAAAGnd3Bl5nww411jy_W_h8RjJQXnAo-rbuDEVkm5Eu3ou%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1785509999%26allow_ip%3D%26allow_referer%3D%26signature%3Dkkp%252BvTEqskrWe7jzH%252FNJ0nRl7h8%253D"/>
 
 </p>
 
