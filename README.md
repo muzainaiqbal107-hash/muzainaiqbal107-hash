@@ -97,21 +97,6 @@ With a strong foundation in modern web technologies, I transform ideas into real
 </p>
 
 ---
-
-# 🌐 Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/muzaina-iqbal-17a915415/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/muzainaiqbal107-hash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
 ---
 
 ## Personal Portfolio
