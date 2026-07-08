@@ -72,7 +72,7 @@ With a strong foundation in modern web technologies, I transform ideas into real
 
 <p align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT37m-bhWZwN8VK2GRMWaYz0D-aC9aPKscgP8ve5KsPjyW8kSIeqLXJVeM&s=10"/>
+<img src=" https://pbs.twimg.com/media/GSoxutxWgAAN-aq.jpg"/>
 
 </p>
 
@@ -102,7 +102,7 @@ With a strong foundation in modern web technologies, I transform ideas into real
 
 <p>
 
-<a href="(https://www.linkedin.com/in/muzaina-iqbal-17a915415/)">
+<a href="https://www.linkedin.com/in/muzaina-iqbal-17a915415/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
