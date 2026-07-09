@@ -109,14 +109,13 @@ Description: My portfolio website showcasing my skills, projects, and experience
 
 # 💜 Quote
 
-> *"Success comes from consistency, creativity, and continuous learning."*
+ *"Success comes from consistency, creativity, and continuous learning."*
 
 ---
 
 <h3 align="center">
 ⭐ ✨ Final Note! ⭐
 </h3>
----
 <h2>
   Thank you for visiting my GitHub! ⭐
 </h2>
