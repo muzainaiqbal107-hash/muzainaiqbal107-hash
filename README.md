@@ -57,7 +57,6 @@ With a strong foundation in modern web technologies, I transform ideas into real
 <img src="https://skillicons.dev/icons?i=figma"/>
 
 </p>
-
 ---
 
 # 📊 GitHub Stats
