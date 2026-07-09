@@ -5,6 +5,10 @@ Hi 👋, I'm Muzaina Iqbal
 <h3 align="center">
 Founder of 4x-Vision | Front-End Web Developer | Building Premium Modern Websites
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Azka+Ansari+%7C+Modern+Web+Developer" />
+</p>
 <br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=muzainaiqbal107-hash&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
