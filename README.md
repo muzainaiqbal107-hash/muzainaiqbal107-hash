@@ -26,7 +26,6 @@ With a strong foundation in modern web technologies, I transform ideas into real
 💡 Specializing in responsive design and interactive user interfaces<br>
 🎯 Goal: Contributing to impactful open-source projects<br>
 ⚡ Fun fact: I combine style with code to create unique experiences<br>
-👨‍💻 All of my projects are available at (https://app.netlify.com/teams/muzainaiqbal107/projects)<br>
 🌐 LinkedIn:<br>
 (https://www.linkedin.com/in/muzaina-iqbal-17a915415/)<br>
 
